@@ -1,0 +1,19 @@
+-----------------------------------------------------------------------------
+Region: us-west-1
+StackName: tCaT-qs-workshop-default-28316d6d12b746ffb046e75fa160cc39
+*****************************************************************************
+ResourceStatusReason:  
+Parameter validation failed: parameter value Pat for parameter name KeyPairName does
+not exist
+*****************************************************************************
+*****************************************************************************
+Events:  
+TimeStamp                         ResourceStatus      ResourceType                LogicalResourceId                                          ResourceStatusReason
+--------------------------------  ------------------  --------------------------  ---------------------------------------------------------  ----------------------------------------------------------------------------------------------
+2021-08-25 14:55:15.270000+00:00  CREATE_FAILED       AWS::CloudFormation::Stack  tCaT-qs-workshop-default-28316d6d12b746ffb046e75fa160cc39  Parameter validation failed: parameter value Pat for parameter name KeyPairName does not exist
+2021-08-25 14:55:12.757000+00:00  CREATE_IN_PROGRESS  AWS::CloudFormation::Stack  tCaT-qs-workshop-default-28316d6d12b746ffb046e75fa160cc39  User Initiated
+*****************************************************************************
+-----------------------------------------------------------------------------
+Tested on: Wednesday, 25. August 2021 02:56PM
+-----------------------------------------------------------------------------
+
